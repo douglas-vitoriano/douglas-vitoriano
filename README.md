@@ -1,17 +1,17 @@
-<h2 align="left">About me</h2>
+## Welcome to my Github profile
+
+- My name is Douglas Vitoriano, from SP, Brazil 🇧🇷
+
+
+## About Me
+- Software Developer at [@Tokenizadora](https://tokenizadora.com.br)  
+- I kicked off and currently maintain a project focused on tokenizing regulated and non-regulated assets using [@Hathornetwork](https://hathor.network).
+- Almost graduating in Software Engineering.
+- Big fan of the Blockchain universe!
 
 <br>
 
-<p align="left">
-  Douglas Vitoriano<br>
-  - Software Developer at @Tokenizadora<br>
-  - I kicked off and currently maintain a project focused on tokenizing regulated and non-regulated assets using @Hathornetwork.<br>
-  - Almost graduating in Software Engineering.<br>
-  - Big fan of the Blockchain universe!
-</p>
-
-<br>
-
+## My Techs
 <div align="left">
   <img src="https://skillicons.dev/icons?i=ruby" height="40" alt="ruby logo" />
   <img width="12" />
@@ -38,6 +38,8 @@
 
 <br>
 
+## My Stats
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=douglas-vitoriano&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=discord_old_blurple&hide_border=false&order=2" height="180" alt="languages graph" />
   <img src="https://streak-stats.demolab.com?user=douglas-vitoriano&locale=pt-br&mode=daily&theme=discord_old_blurple&hide_border=false&border_radius=6&order=3" height="180" alt="streak graph" />
@@ -45,6 +47,7 @@
 
 <br>
 
+## Connect with me
 <div align="left">
   <a href="https://www.linkedin.com/in/douglas-marins-vitoriano" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
@@ -53,3 +56,18 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
 </div>
+
+<!--
+**douglas-vitoriano/douglas-vitoriano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
